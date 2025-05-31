@@ -16,11 +16,9 @@ To write a C function to evaluate the given prefix expression using stack and pr
 
 ## Program:
 ```
-/*
 Program to evaluate the given prefix expression
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 ```
 ```c
 
