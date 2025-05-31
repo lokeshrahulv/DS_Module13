@@ -14,14 +14,12 @@ To write a C program to convert the infix expression into postfix form using sta
 
 ## Program:
 ```
-/*
 Program to convert the infix expression into postfix expression
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013
-*/
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024
 
 ```
-```c
+```
 
 #include<stdio.h>
 #include<ctype.h>
