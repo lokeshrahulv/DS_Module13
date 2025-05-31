@@ -12,12 +12,9 @@ To write a C function to perform push and pop operation of the stack in the infi
 
 ## Program:
 ```
-/*
 Program to find and display the priority of the operator in the given Postfix expression
 Developed by: LOKESH RAHUL V V
 RegisterNumber: 212222100024
-*/
-
 ```
 ```c
 
