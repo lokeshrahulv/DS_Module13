@@ -16,8 +16,8 @@ To write a C program to implement Tower of Hanoi
 ```
 /*
 Program to implement Tower of Hanoi
-Developed by: ASHWIN KUMAR S
-RegisterNumber: 212222240013SS 
+Developed by: LOKESH RAHUL V V
+RegisterNumber: 212222100024 
 */
 
 ```
